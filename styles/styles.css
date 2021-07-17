@@ -1,7 +1,7 @@
  body {
      text-align: center
  }
- 
+
  .navbar-brand {
      font-family: cursive;
      font-weight: 500;
@@ -27,4 +27,18 @@
     border-radius: 3px;
     font-size: 16px;
     padding: 10px 30px;
+}
+
+.speakers {
+    font-weight: 700;
+}
+
+.speakers h3 {
+    margin: 20px auto;
+}
+
+.speakers p {
+    font-size: 20px;
+    width: 80%;
+    margin: 10px auto;
 }
