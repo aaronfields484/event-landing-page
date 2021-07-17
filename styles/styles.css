@@ -42,3 +42,28 @@
     width: 80%;
     margin: 10px auto;
 }
+
+.card {
+    margin: 50px auto;
+    border: none;
+    width: 15rem;
+    text-align: left;
+}
+
+.card-body {
+    padding: 20px 0;
+}
+
+.card-img-top{
+    border-radius: 5px;
+}
+
+.card-title {
+    font-weight: 700;
+}
+
+.card-text {
+    color: grey;
+    font-weight: 600;
+    padding: 10px 0;
+}
