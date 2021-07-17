@@ -1,0 +1,26 @@
+ .navbar-brand {
+     font-family: cursive;
+     font-weight: 500;
+    }
+ 
+ .nav-link {
+     color: black !important;
+     font-weight: bold;
+ }
+
+ .jumbotron h1 {
+
+     width: 80%;
+     margin: 20px auto;
+ }
+
+ .lead{
+    color: #788EA3;
+}
+
+.jumbotron a {
+    margin: 20px auto 50px auto;
+    border-radius: 3px;
+    font-size: 16px;
+    padding: 10px 30px;
+}
