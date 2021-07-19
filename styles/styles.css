@@ -138,6 +138,10 @@
     font-weight: 700;
 }
 
+.venue img {
+    border-radius: 3px;
+}
+
 footer {
     display: flex;
     justify-content: space-between;
